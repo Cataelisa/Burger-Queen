@@ -1,0 +1,104 @@
+{
+    "name": "Menu",
+    
+    "breakfast": [
+        {
+            "id": "0",
+            "product": "American coffee",
+            "price": "1.500"
+        },
+        {
+            "id": "1",
+            "product": "Latte coffe",
+            "price": "2.500"
+        },
+        {
+            "id": "2",
+            "product": "Ham and cheese sandwich",
+            "price": "5.500"
+        },
+        {
+            "id": "3",
+            "product": "Fresh-squeezed juice",
+            "price": "2.500"
+        }
+    ],
+
+    "burgers": [
+        {
+            "id": "4",
+            "product": "Classic burger",
+            "price": "6.000"
+        },
+        {
+            "id": "5",
+            "product": "Double cheeseburger",
+            "price": "8.000"
+        },
+        {
+            "id":"6",
+            "product": "Beef burger",
+            "price": "8.500"
+        },
+        {
+            "id":"7",
+            "product": "Chicken burger",
+            "price": "8.500"
+        },
+        {
+            "id":"8",
+            "product": "Portobello Mushroom burger",
+            "price": "8.500"
+        
+        }
+    ],
+
+    "side dish": [
+        {
+            "id": "9",
+            "product": "French fries",
+            "price": "2.000"
+        },
+        {
+            "id": "10",
+            "product": "Onion rings",
+            "price": "2.000"
+        }
+    ],
+
+    "drinks": [
+        {
+            "id": "11",
+            "product": "Sparkling water 500ml",
+            "price": "1.500"
+        },
+        {
+            "id": "12",
+            "product": "Sparkling water 750ml",
+            "price": "2.000"
+        },
+        {
+            "id": "13",
+            "product": "Soda pop 500ml",
+            "price": "2.500"
+        },
+        {
+            "id": "14",
+            "product": "Soda pop 750ml",
+            "price": "3.000"
+        }
+    ],
+
+    "burger extras": [
+        {
+            "id": "15",
+            "product": "Extra cheese",
+            "price": "1.000"
+        },
+        {
+            "id": "16",
+            "product": "Extra egg",
+            "price": "1.000"
+        }
+    ]
+}
